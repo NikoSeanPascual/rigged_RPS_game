@@ -1,21 +1,24 @@
-# Terminal-Based To-Do List
+# Totally Fair RPS Simulator
 
-A simple Python terminal application to manage your daily tasks. This project allows you to **add, view, remove, and clear tasks** directly from the terminal.
+A hilariously brutal **Rock-Paper-Scissors** game where the AI always wins… and insults you while doing it.  
 
-## Features
+---
 
-- Add a task to your to-do list
-- View all tasks in the list
-- Remove a specific task by number
-- Clear all tasks
-- Exit the program
+## Description
 
-## How to Use
+This Python project is a **command-line game** where you play Rock-Paper-Scissors against an AI. Spoiler: the AI always wins, and it has a sassy set of insults ready for every defeat.  
 
-1. Clone the repository or download `to-do-list.py`.
-2. Open a terminal and navigate to the folder containing `to-do-list.py`.
-3. Run the program:
+It's a fun project for practicing **Python basics** like:
+- `input()` and string handling  
+- `while` loops  
+- `dictionaries`  
+- `lists` and `random.choice()`  
+- `time.sleep()` for dramatic effect  
 
+---
+
+## How to Play
+
+1. Run the Python script:  
 ```bash
-python to-do-list.py
-****
+python main.py
